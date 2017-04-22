@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled Object files
 *.slo
 *.lo
@@ -26,3 +27,12 @@
 *.exe
 *.out
 *.app
+=======
+.DS_Store
+applet
+application.linux32
+application.linux64
+application.windows32
+application.windows64
+application.macosx
+>>>>>>> 921f8d3b32601872e03a37924fbbfa375b63d082
